@@ -7,7 +7,7 @@ about:
   head: 699eab9
   archived: false
   latestVersion: v0.2.8
-  collectedAt: 2026-09-04T19:41:55Z
+  collectedAt: 2026-09-04T20:54:19Z
 timeline:
   created: 2022-10-18
   lastCommit: 2026-06-08
@@ -80,5 +80,28 @@ total:
   openIssue: 4
   commit: 28
 ---
+path: /home/runner/.x-repo/github.com/peltho/tufw
+collectedAt: 2026-09-04T20:54:20Z
+loc:
+  Go:
+    code: 1574
+    comments: 44
+    blanks: 213
+    files: 6
+  Markdown:
+    code: 0
+    comments: 19
+    blanks: 10
+    files: 1
+  Text:
+    code: 0
+    comments: 17
+    blanks: 4
+    files: 1
+total:
+  code: 1574
+  comments: 80
+  blanks: 227
+  files: 8
 ---
 
