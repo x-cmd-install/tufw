@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2.8"
   latestRelease: "v0.2.8"
   latestPrerelease: "v0.2.3-alpha"
-  collectedAt: 2026-09-09T02:59:37Z
+  collectedAt: 2026-09-09T18:23:39Z
 timeline:
   created: 2022-10-18
   lastCommit: 2026-06-08
@@ -83,7 +83,7 @@ total:
   commit: 28
 ---
 path: /home/runner/.x-repo/github.com/peltho/tufw
-collectedAt: 2026-09-09T02:59:38Z
+collectedAt: 2026-09-09T18:23:40Z
 loc:
   Go:
     code: 1574
