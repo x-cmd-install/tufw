@@ -22,11 +22,28 @@ x install tufw
 - **Latest**: `v0.2.8` (2026-06-08)
 - **Last commit**: 2026-06-08
 - **Assets in release**: 13
-- **Published**: 2026-06-08T11:43:11Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [tufw_0.2.8_checksums.txt](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_checksums.txt) | 1.1 KiB | `other` |
+| [tufw_0.2.8_linux_386.deb](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_386.deb) | 1.3 MiB | `other` |
+| [tufw_0.2.8_linux_386.rpm](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_386.rpm) | 1.3 MiB | `other` |
+| [tufw_0.2.8_linux_386.tar.gz](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_386.tar.gz) | 1.3 MiB | `native/unknown` |
+| [tufw_0.2.8_linux_amd64.deb](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_amd64.deb) | 1.4 MiB | `native/linux/x64` |
+| [tufw_0.2.8_linux_amd64.rpm](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_amd64.rpm) | 1.4 MiB | `native/linux/x64` |
+| [tufw_0.2.8_linux_amd64.tar.gz](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_amd64.tar.gz) | 1.4 MiB | `native/linux/x64` |
+| [tufw_0.2.8_linux_arm.tar.gz](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_arm.tar.gz) | 1.3 MiB | `native/linux/arm` |
+| [tufw_0.2.8_linux_arm64.deb](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_arm64.deb) | 1.3 MiB | `native/linux/arm64` |
+| [tufw_0.2.8_linux_arm64.rpm](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_arm64.rpm) | 1.3 MiB | `native/linux/arm64` |
+| [tufw_0.2.8_linux_arm64.tar.gz](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_arm64.tar.gz) | 1.3 MiB | `native/linux/arm64` |
+| [tufw_0.2.8_linux_armv6.deb](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_armv6.deb) | 1.3 MiB | `native/linux/arm` |
+| [tufw_0.2.8_linux_armv6.rpm](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_armv6.rpm) | 1.3 MiB | `native/linux/arm` |
 
 ## Popularity
 
-- **Stars**: 864 · **Forks**: 26 · **Open issues**: 17 · **Contributors**: 2
+- **Stars**: 863 · **Forks**: 26 · **Open issues**: 17 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -55,8 +72,8 @@ Total: **1,574** lines of code across **8** files in the top 5 languages.
 Install metadata for tufw lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tufw` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/tufw.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/tufw.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T03:00:43Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T15:54:55Z._

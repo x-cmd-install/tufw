@@ -4,7 +4,7 @@
 
 Terminal UI for ufw
 
-![tufw](https://repo.x-cmd.io/tufw.svg)
+![tufw](https://repo.x-cmd.io/tufw.svg?lang=zh)
 
 ## 安装
 
@@ -22,11 +22,28 @@ x install tufw
 - **最新版本**: `v0.2.8` (2026-06-08)
 - **最近提交**: 2026-06-08
 - **Release 含资产**: 13 个
-- **发布时间**: 2026-06-08T11:43:11Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [tufw_0.2.8_checksums.txt](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_checksums.txt) | 1.1 KiB | `other` |
+| [tufw_0.2.8_linux_386.deb](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_386.deb) | 1.3 MiB | `other` |
+| [tufw_0.2.8_linux_386.rpm](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_386.rpm) | 1.3 MiB | `other` |
+| [tufw_0.2.8_linux_386.tar.gz](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_386.tar.gz) | 1.3 MiB | `native/unknown` |
+| [tufw_0.2.8_linux_amd64.deb](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_amd64.deb) | 1.4 MiB | `native/linux/x64` |
+| [tufw_0.2.8_linux_amd64.rpm](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_amd64.rpm) | 1.4 MiB | `native/linux/x64` |
+| [tufw_0.2.8_linux_amd64.tar.gz](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_amd64.tar.gz) | 1.4 MiB | `native/linux/x64` |
+| [tufw_0.2.8_linux_arm.tar.gz](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_arm.tar.gz) | 1.3 MiB | `native/linux/arm` |
+| [tufw_0.2.8_linux_arm64.deb](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_arm64.deb) | 1.3 MiB | `native/linux/arm64` |
+| [tufw_0.2.8_linux_arm64.rpm](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_arm64.rpm) | 1.3 MiB | `native/linux/arm64` |
+| [tufw_0.2.8_linux_arm64.tar.gz](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_arm64.tar.gz) | 1.3 MiB | `native/linux/arm64` |
+| [tufw_0.2.8_linux_armv6.deb](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_armv6.deb) | 1.3 MiB | `native/linux/arm` |
+| [tufw_0.2.8_linux_armv6.rpm](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_armv6.rpm) | 1.3 MiB | `native/linux/arm` |
 
 ## 流行度
 
-- **Star**: 864 · **Fork**: 26 · **开放 issue**: 17 · **贡献者**: 2
+- **Star**: 863 · **Fork**: 26 · **开放 issue**: 17 · **贡献者**: 2
 
 ## 累计统计
 
@@ -59,4 +76,4 @@ tufw 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T03:00:44Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T15:54:56Z._
