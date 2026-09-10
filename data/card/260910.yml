@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.2.8"
   latestRelease: "v0.2.8"
   latestPrerelease: "v0.2.3-alpha"
-  collectedAt: 2026-09-10T03:00:39Z
+  collectedAt: 2026-09-10T15:54:47Z
 timeline:
   created: 2022-10-18
   lastCommit: 2026-06-08
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-06-08
   lastPrerelease: 2024-06-21
 popularity:
-  star: 864
+  star: 863
   watcher: 8
   fork: 26
   release: 11
@@ -83,7 +83,7 @@ total:
   commit: 28
 ---
 path: /home/runner/.x-repo/github.com/peltho/tufw
-collectedAt: 2026-09-10T03:00:40Z
+collectedAt: 2026-09-10T15:54:48Z
 loc:
   Go:
     code: 1574
