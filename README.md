@@ -12,6 +12,16 @@ Terminal UI for ufw
 x install tufw
 ```
 
+## Code insight
+
+Total: **1,574** lines of code across **8** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 1,574 | 44 | 213 | 6 |
+| Markdown | 0 | 19 | 10 | 1 |
+| Text | 0 | 17 | 4 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/peltho/tufw>
@@ -22,6 +32,25 @@ x install tufw
 - **Latest**: `v0.2.8` (2026-06-08)
 - **Last commit**: 2026-06-08
 - **Assets in release**: 13
+
+## Popularity
+
+- **Stars**: 863 · **Forks**: 26 · **Open issues**: 17 · **Contributors**: 2
+
+## Totals (cumulative)
+
+- **Releases**: 11 · **Merged PRs**: 7 · **Open PRs**: 0 · **Closed issues**: 13 · **Open issues**: 4 · **Commits**: 28
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last180d | 2026-03-14 | 1 | 1 | 0 | 1 | 1 | 2 |
+| 360d | 2025-09-15 | 4 | 2 | 0 | 5 | 3 | 6 |
+| last720d | 2024-09-20 | 6 | 3 | 0 | 9 | 4 | 8 |
 
 ## Release assets
 
@@ -41,32 +70,6 @@ x install tufw
 | [tufw_0.2.8_linux_armv6.deb](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_armv6.deb) | 1.3 MiB | `native/linux/arm` |
 | [tufw_0.2.8_linux_armv6.rpm](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_armv6.rpm) | 1.3 MiB | `native/linux/arm` |
 
-## Popularity
-
-- **Stars**: 863 · **Forks**: 26 · **Open issues**: 17 · **Contributors**: 2
-
-## Totals (cumulative)
-
-- **Releases**: 11 · **Merged PRs**: 7 · **Open PRs**: 0 · **Closed issues**: 13 · **Open issues**: 4 · **Commits**: 28
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 1 | 0 |
-| 360d | 2025-09-15 | 4 | 2 | 0 | 5 | 3 | 6 |
-
-## Code size
-
-Total: **1,574** lines of code across **8** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 1,574 | 44 | 213 | 6 |
-| Markdown | 0 | 19 | 10 | 1 |
-| Text | 0 | 17 | 4 | 1 |
-
 ## Improve this data
 
 Install metadata for tufw lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `tufw` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -76,4 +79,4 @@ Install metadata for tufw lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T15:54:55Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T20:17:21Z._
