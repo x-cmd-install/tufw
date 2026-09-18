@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1462642,
       "digest": "sha256:ee36f5e3994dcf84e7df11332317cb38389ea4beb6f373d2f998a312453b3050",
-      "download_count": 211,
+      "download_count": 213,
       "created_at": "2026-06-08T11:43:09Z",
       "updated_at": "2026-06-08T11:43:10Z",
       "browser_download_url": "https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_amd64.deb"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1463552,
       "digest": "sha256:e4e4efcd64649e0e5ce69c8ec61b6db3372a6e3c85f17a245bf18977655c1fe2",
-      "download_count": 569,
+      "download_count": 573,
       "created_at": "2026-06-08T11:43:09Z",
       "updated_at": "2026-06-08T11:43:10Z",
       "browser_download_url": "https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_amd64.tar.gz"
