@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1462642,
       "digest": "sha256:ee36f5e3994dcf84e7df11332317cb38389ea4beb6f373d2f998a312453b3050",
-      "download_count": 239,
+      "download_count": 241,
       "created_at": "2026-06-08T11:43:09Z",
       "updated_at": "2026-06-08T11:43:10Z",
       "browser_download_url": "https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_amd64.deb"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 1467565,
       "digest": "sha256:b929d4a918e53082acb90d0d06b004defc66f394bd389cd3cef64218d5690f86",
-      "download_count": 23,
+      "download_count": 24,
       "created_at": "2026-06-08T11:43:09Z",
       "updated_at": "2026-06-08T11:43:10Z",
       "browser_download_url": "https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_amd64.rpm"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1463552,
       "digest": "sha256:e4e4efcd64649e0e5ce69c8ec61b6db3372a6e3c85f17a245bf18977655c1fe2",
-      "download_count": 616,
+      "download_count": 622,
       "created_at": "2026-06-08T11:43:09Z",
       "updated_at": "2026-06-08T11:43:10Z",
       "browser_download_url": "https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_amd64.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 1359706,
       "digest": "sha256:bc05692ceafe5b4a2f6673bb2d572c1e27dafa6188269d98037a26dc682027ff",
-      "download_count": 48,
+      "download_count": 50,
       "created_at": "2026-06-08T11:43:09Z",
       "updated_at": "2026-06-08T11:43:10Z",
       "browser_download_url": "https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_arm64.deb"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 1359881,
       "digest": "sha256:4c556333f3c3bbecf259a245abf895f3dc2a2d6abc330ee99476e043a1f805f8",
-      "download_count": 55,
+      "download_count": 58,
       "created_at": "2026-06-08T11:43:09Z",
       "updated_at": "2026-06-08T11:43:10Z",
       "browser_download_url": "https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_arm64.tar.gz"
