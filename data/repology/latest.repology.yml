@@ -19,7 +19,7 @@
   status: unique
   summary: Terminal UI for ufw
   maintainers:
-    - guemidiborhane@aur
+    - fallback-mnt-aur@repology
   licenses:
     - MIT
 - repo: aur
