@@ -4,7 +4,7 @@
   visiblename: tufw
   version: 0.2.7
   origversion: 0.2.7-1
-  status: unique
+  status: outdated
   summary: Terminal UI for ufw
   maintainers:
     - nicknb@aur
@@ -14,23 +14,11 @@
   srcname: tufw-bin
   binname: tufw-bin
   visiblename: tufw-bin
-  version: 0.2.7
-  origversion: 0.2.7-1
+  version: 0.2.8
+  origversion: 0.2.8-1
   status: unique
   summary: Terminal UI for ufw
   maintainers:
-    - fallback-mnt-aur@repology
-  licenses:
-    - MIT
-- repo: aur
-  srcname: tufw-git
-  binname: tufw-git
-  visiblename: tufw-git
-  version: 0.2.8
-  origversion: 0.2.8-1
-  status: rolling
-  summary: Terminal UI for ufw
-  maintainers:
-    - peltho@aur
+    - dominiquini@aur
   licenses:
     - MIT
