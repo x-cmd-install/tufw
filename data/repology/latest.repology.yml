@@ -2,9 +2,9 @@
   srcname: tufw
   binname: tufw
   visiblename: tufw
-  version: 0.2.7
-  origversion: 0.2.7-1
-  status: outdated
+  version: 0.2.8
+  origversion: 0.2.8-1
+  status: unique
   summary: Terminal UI for ufw
   maintainers:
     - nicknb@aur
@@ -20,5 +20,6 @@
   summary: Terminal UI for ufw
   maintainers:
     - dominiquini@aur
+    - peltho@aur
   licenses:
     - MIT
