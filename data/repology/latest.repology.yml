@@ -14,8 +14,8 @@
   srcname: tufw-bin
   binname: tufw-bin
   visiblename: tufw-bin
-  version: 0.2.8
-  origversion: 0.2.8-1
+  version: 0.3.0_alpha
+  origversion: 0.3.0_alpha-1
   status: unique
   summary: Terminal UI for ufw
   maintainers:
