@@ -14,12 +14,12 @@ x install tufw
 
 ## Code insight
 
-Total: **1,574** lines of code across **8** files in the top 5 languages.
+Total: **2,347** lines of code across **14** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 1,574 | 44 | 213 | 6 |
-| Markdown | 0 | 19 | 10 | 1 |
+| Go | 2,347 | 90 | 325 | 12 |
+| Markdown | 0 | 35 | 13 | 1 |
 | Text | 0 | 17 | 4 | 1 |
 
 ## Source
@@ -30,7 +30,7 @@ Total: **1,574** lines of code across **8** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.0-alpha` (2026-06-08)
-- **Last commit**: 2026-06-08
+- **Last commit**: 2026-11-20
 - **Assets in release**: 13
 
 ## Popularity
@@ -39,18 +39,18 @@ Total: **1,574** lines of code across **8** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 8 · **Open PRs**: 1 · **Closed issues**: 14 · **Open issues**: 3 · **Commits**: 28
+- **Releases**: 12 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 3 · **Commits**: 29
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 1 | 1 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-21 | 1 | 1 | 1 | 0 | 0 | 0 |
-| 90d | 2026-08-22 | 1 | 1 | 1 | 0 | 0 | 0 |
-| last180d | 2026-05-24 | 2 | 2 | 1 | 0 | 1 | 2 |
-| 360d | 2025-11-25 | 2 | 2 | 1 | 3 | 1 | 2 |
-| last720d | 2024-11-30 | 7 | 4 | 1 | 10 | 3 | 8 |
+| 30d | 2026-10-22 | 1 | 2 | 0 | 0 | 0 | 1 |
+| last60d | 2026-09-22 | 1 | 2 | 0 | 0 | 0 | 1 |
+| 90d | 2026-08-23 | 1 | 2 | 0 | 0 | 0 | 1 |
+| last180d | 2026-05-25 | 2 | 3 | 0 | 0 | 1 | 3 |
+| 360d | 2025-11-26 | 2 | 3 | 0 | 3 | 1 | 3 |
+| last720d | 2024-12-01 | 7 | 5 | 0 | 10 | 3 | 9 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for tufw lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T05:40:49Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T05:33:59Z._
