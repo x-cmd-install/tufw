@@ -30,27 +30,27 @@ Total: **2,347** lines of code across **14** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.3.0-alpha` (2026-06-08)
-- **Last commit**: 2026-11-20
+- **Last commit**: 2026-11-25
 - **Assets in release**: 13
 
 ## Popularity
 
-- **Stars**: 879 · **Forks**: 26 · **Open issues**: 17 · **Contributors**: 2
+- **Stars**: 880 · **Forks**: 26 · **Open issues**: 17 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 12 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 3 · **Commits**: 29
+- **Releases**: 12 · **Merged PRs**: 9 · **Open PRs**: 0 · **Closed issues**: 14 · **Open issues**: 3 · **Commits**: 30
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 1 | 2 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-26 | 1 | 2 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-27 | 1 | 2 | 0 | 0 | 0 | 1 |
-| last180d | 2026-05-29 | 2 | 3 | 0 | 0 | 1 | 3 |
-| 360d | 2025-11-30 | 2 | 3 | 0 | 2 | 1 | 3 |
-| last720d | 2024-12-05 | 7 | 5 | 0 | 10 | 3 | 9 |
+| 30d | 2026-10-27 | 1 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-27 | 1 | 2 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-28 | 1 | 2 | 0 | 0 | 0 | 2 |
+| last180d | 2026-05-30 | 2 | 3 | 0 | 0 | 1 | 4 |
+| 360d | 2025-12-01 | 2 | 3 | 0 | 2 | 1 | 4 |
+| last720d | 2024-12-06 | 7 | 5 | 0 | 10 | 3 | 10 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for tufw lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T06:56:24Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T06:47:19Z._
