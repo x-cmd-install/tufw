@@ -19,7 +19,6 @@
   status: unique
   summary: Terminal UI for ufw
   maintainers:
-    - dominiquini@aur
     - peltho@aur
   licenses:
     - MIT

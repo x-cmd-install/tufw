@@ -1,0 +1,110 @@
+about:
+  description: "Terminal UI for ufw"
+  license: MIT
+  homepage: 
+  head: a3abd8c
+  archived: false
+  latestVersion: "v0.3.0-alpha"
+  latestRelease: "v0.3.0-alpha"
+  latestPrerelease: "v0.2.3-alpha"
+  collectedAt: 2026-11-28T06:13:08Z
+timeline:
+  created: 2022-10-18
+  lastCommit: 2026-11-25
+  lastVersion: 2026-11-16
+  lastRelease: 2026-11-16
+  lastPrerelease: 2024-06-21
+popularity:
+  star: 882
+  watcher: 8
+  fork: 26
+  release: 12
+  contributor: 2
+  pullRequest: 10
+  issue: 17
+language:
+  Go: 77397
+totalBytes: 77397
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 1
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 2
+  last60d:
+    since: 2026-09-29
+    release: 1
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 2
+  last90d:
+    since: 2026-08-30
+    release: 1
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 2
+  last180d:
+    since: 2026-06-01
+    release: 2
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 0
+    openIssue: 1
+    commit: 4
+  last360d:
+    since: 2025-12-03
+    release: 2
+    mergedPR: 3
+    openPR: 0
+    closedIssue: 2
+    openIssue: 1
+    commit: 4
+  last720d:
+    since: 2024-12-08
+    release: 7
+    mergedPR: 5
+    openPR: 0
+    closedIssue: 10
+    openIssue: 3
+    commit: 10
+total:
+  release: 12
+  mergedPR: 9
+  openPR: 0
+  closedIssue: 14
+  openIssue: 3
+  commit: 30
+---
+path: /home/runner/.x-repo/github.com/peltho/tufw
+collectedAt: 2026-11-28T06:13:08Z
+loc:
+  Go:
+    code: 2347
+    comments: 90
+    blanks: 325
+    files: 12
+  Markdown:
+    code: 0
+    comments: 35
+    blanks: 13
+    files: 1
+  Text:
+    code: 0
+    comments: 17
+    blanks: 4
+    files: 1
+total:
+  code: 2347
+  comments: 142
+  blanks: 342
+  files: 14
+---
+
+---
