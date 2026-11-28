@@ -29,13 +29,13 @@ x install tufw
 
 ## 发布
 
-- **最新版本**: `v0.3.0-alpha` (2026-06-08)
+- **最新版本**: `v0.3.0-alpha` (2026-11-16)
 - **最近提交**: 2026-11-25
 - **Release 含资产**: 13 个
 
 ## 流行度
 
-- **Star**: 881 · **Fork**: 26 · **开放 issue**: 17 · **贡献者**: 2
+- **Star**: 882 · **Fork**: 26 · **开放 issue**: 17 · **贡献者**: 2
 
 ## 累计统计
 
@@ -45,30 +45,30 @@ x install tufw
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 2 | 0 | 0 | 0 | 2 |
-| last60d | 2026-09-28 | 1 | 2 | 0 | 0 | 0 | 2 |
-| 90d | 2026-08-29 | 1 | 2 | 0 | 0 | 0 | 2 |
-| last180d | 2026-05-31 | 2 | 3 | 0 | 0 | 1 | 4 |
-| 360d | 2025-12-02 | 2 | 3 | 0 | 2 | 1 | 4 |
-| last720d | 2024-12-07 | 7 | 5 | 0 | 10 | 3 | 10 |
+| 30d | 2026-10-29 | 1 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-29 | 1 | 2 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-30 | 1 | 2 | 0 | 0 | 0 | 2 |
+| last180d | 2026-06-01 | 2 | 3 | 0 | 0 | 1 | 4 |
+| 360d | 2025-12-03 | 2 | 3 | 0 | 2 | 1 | 4 |
+| last720d | 2024-12-08 | 7 | 5 | 0 | 10 | 3 | 10 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [tufw_0.2.8_checksums.txt](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_checksums.txt) | 1.1 KiB | `other` |
-| [tufw_0.2.8_linux_386.deb](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_386.deb) | 1.3 MiB | `other` |
-| [tufw_0.2.8_linux_386.rpm](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_386.rpm) | 1.3 MiB | `other` |
-| [tufw_0.2.8_linux_386.tar.gz](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_386.tar.gz) | 1.3 MiB | `native/unknown` |
-| [tufw_0.2.8_linux_amd64.deb](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_amd64.deb) | 1.4 MiB | `native/linux/x64` |
-| [tufw_0.2.8_linux_amd64.rpm](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_amd64.rpm) | 1.4 MiB | `native/linux/x64` |
-| [tufw_0.2.8_linux_amd64.tar.gz](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_amd64.tar.gz) | 1.4 MiB | `native/linux/x64` |
-| [tufw_0.2.8_linux_arm.tar.gz](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_arm.tar.gz) | 1.3 MiB | `native/linux/arm` |
-| [tufw_0.2.8_linux_arm64.deb](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_arm64.deb) | 1.3 MiB | `native/linux/arm64` |
-| [tufw_0.2.8_linux_arm64.rpm](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_arm64.rpm) | 1.3 MiB | `native/linux/arm64` |
-| [tufw_0.2.8_linux_arm64.tar.gz](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_arm64.tar.gz) | 1.3 MiB | `native/linux/arm64` |
-| [tufw_0.2.8_linux_armv6.deb](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_armv6.deb) | 1.3 MiB | `native/linux/arm` |
-| [tufw_0.2.8_linux_armv6.rpm](https://github.com/peltho/tufw/releases/download/v0.2.8/tufw_0.2.8_linux_armv6.rpm) | 1.3 MiB | `native/linux/arm` |
+| [tufw_0.3.0-alpha_checksums.txt](https://github.com/peltho/tufw/releases/download/v0.3.0-alpha/tufw_0.3.0-alpha_checksums.txt) | 1.2 KiB | `other` |
+| [tufw_0.3.0-alpha_linux_386.deb](https://github.com/peltho/tufw/releases/download/v0.3.0-alpha/tufw_0.3.0-alpha_linux_386.deb) | 1.7 MiB | `other` |
+| [tufw_0.3.0-alpha_linux_386.rpm](https://github.com/peltho/tufw/releases/download/v0.3.0-alpha/tufw_0.3.0-alpha_linux_386.rpm) | 1.7 MiB | `other` |
+| [tufw_0.3.0-alpha_linux_386.tar.gz](https://github.com/peltho/tufw/releases/download/v0.3.0-alpha/tufw_0.3.0-alpha_linux_386.tar.gz) | 1.7 MiB | `native/unknown` |
+| [tufw_0.3.0-alpha_linux_amd64.deb](https://github.com/peltho/tufw/releases/download/v0.3.0-alpha/tufw_0.3.0-alpha_linux_amd64.deb) | 1.8 MiB | `native/linux/x64` |
+| [tufw_0.3.0-alpha_linux_amd64.rpm](https://github.com/peltho/tufw/releases/download/v0.3.0-alpha/tufw_0.3.0-alpha_linux_amd64.rpm) | 1.8 MiB | `native/linux/x64` |
+| [tufw_0.3.0-alpha_linux_amd64.tar.gz](https://github.com/peltho/tufw/releases/download/v0.3.0-alpha/tufw_0.3.0-alpha_linux_amd64.tar.gz) | 1.8 MiB | `native/linux/x64` |
+| [tufw_0.3.0-alpha_linux_arm.tar.gz](https://github.com/peltho/tufw/releases/download/v0.3.0-alpha/tufw_0.3.0-alpha_linux_arm.tar.gz) | 1.8 MiB | `native/linux/arm` |
+| [tufw_0.3.0-alpha_linux_arm64.deb](https://github.com/peltho/tufw/releases/download/v0.3.0-alpha/tufw_0.3.0-alpha_linux_arm64.deb) | 1.7 MiB | `native/linux/arm64` |
+| [tufw_0.3.0-alpha_linux_arm64.rpm](https://github.com/peltho/tufw/releases/download/v0.3.0-alpha/tufw_0.3.0-alpha_linux_arm64.rpm) | 1.7 MiB | `native/linux/arm64` |
+| [tufw_0.3.0-alpha_linux_arm64.tar.gz](https://github.com/peltho/tufw/releases/download/v0.3.0-alpha/tufw_0.3.0-alpha_linux_arm64.tar.gz) | 1.7 MiB | `native/linux/arm64` |
+| [tufw_0.3.0-alpha_linux_armv6.deb](https://github.com/peltho/tufw/releases/download/v0.3.0-alpha/tufw_0.3.0-alpha_linux_armv6.deb) | 1.8 MiB | `native/linux/arm` |
+| [tufw_0.3.0-alpha_linux_armv6.rpm](https://github.com/peltho/tufw/releases/download/v0.3.0-alpha/tufw_0.3.0-alpha_linux_armv6.rpm) | 1.7 MiB | `native/linux/arm` |
 
 ## 改进这些数据
 
@@ -79,4 +79,4 @@ tufw 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261127.yml` · 2026-11-27T06:39:43Z._
+_数据快照: `data/card/261128.yml` · 2026-11-28T06:13:14Z._
